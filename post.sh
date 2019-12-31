@@ -1,4 +1,4 @@
 git pull master
 git add ./
 git commit -m "ShellScript Commit"
-git push origin master
+git push  master
