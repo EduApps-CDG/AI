@@ -14,7 +14,7 @@
 		android:background="#0078FF">
 
 		<ImageView
-			android:src="@android:drawable/ic_menu_menu"
+			android:src="@android:drawable/ic_menu_more"
 			android:layout_width="wrap_content"
 			android:layout_height="match_parent"/>
 
