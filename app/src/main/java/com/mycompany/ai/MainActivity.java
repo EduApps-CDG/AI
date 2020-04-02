@@ -3,9 +3,10 @@ package com.mycompany.ai;
 import android.app.*;
 import android.os.*;
 import android.widget.*;
+import net.eduapps.android.widget.*;
 
 public class MainActivity extends Activity {
-	ListView messages;
+	EListView messages;
 	
     @Override protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
