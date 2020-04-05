@@ -3,7 +3,7 @@ package com.mycompany.ai;
 import android.app.*;
 import android.os.*;
 import android.widget.*;
-import net.eduapps.android.widget.*;
+import net.eduapps.android.widget.EListView;
 
 public class MainActivity extends Activity {
 	EListView messages;
